@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+torch
+optuna
+rdkit
+openpyxl
+joblib
+dgl
+dgllife
+mordredcommunity
